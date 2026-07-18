@@ -23,6 +23,26 @@ In this file, I explain everything I learned today, including notes, examples, p
 
 
 
+# Day 2 - Aggregate Functions & GROUP BY
+
+                Today I learned how to summarize and analyze data using SQL aggregate functions and grouping.
+
+                ### Topics Covered
+
+                * `COUNT()` – Count the number of records.
+                * `SUM()` – Calculate the total value of a column.
+                * `AVG()` – Find the average value.
+                * `MIN()` – Retrieve the smallest value.
+                * `MAX()` – Retrieve the largest value.
+                * `GROUP BY` – Group rows with the same values to perform aggregate calculations.
+
+                ### Practice
+
+                * Solved beginner-level SQL queries using aggregate functions.
+                * Practiced grouping data with `GROUP BY` to generate summarized results.
+                * Improved my understanding of how SQL analyzes and organizes data efficiently.
+
+                **Status:** ✅ Day 2 Completed
 
 
 
