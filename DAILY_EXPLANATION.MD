@@ -45,6 +45,26 @@ In this file, I explain everything I learned today, including notes, examples, p
                 **Status:** ✅ Day 2 Completed
 
 
+# Day 3 - HAVING & String Functions
+
+                Today I learned how to filter grouped data using `HAVING` and manipulate text using SQL string functions.
+
+                ### Topics Covered
+
+                * `HAVING` – Filter grouped results after using `GROUP BY`.
+                * `UPPER()` – Convert text to uppercase.
+                * `LOWER()` – Convert text to lowercase.
+                * `LENGTH()` – Find the length of a string.
+                * `LEFT()` – Extract a specified number of characters from the left.
+                * `REPLACE()` – Replace specific characters or text within a string.
+
+                ### Practice
+
+                * Solved SQL queries using `HAVING` with aggregate functions.
+                * Practiced transforming and analyzing text using string functions.
+                * Improved my understanding of filtering grouped data and working with string values in SQL.
+
+                **Status:** ✅ Day 3 Completed
 
 
 
