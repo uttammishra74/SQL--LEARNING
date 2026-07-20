@@ -67,6 +67,25 @@ In this file, I explain everything I learned today, including notes, examples, p
                 **Status:** ✅ Day 3 Completed
 
 
+# Day 4 - UPDATE & DELETE
+
+                Today I learned how to modify and remove data from a database using SQL.
+
+                ### Topics Covered
+
+                * `UPDATE` – Modify existing records in a table.
+                * `SET` – Specify new values for selected columns.
+                * `WHERE` – Update or delete only specific records.
+                * `DELETE` – Remove records from a table.
+
+                ### Practice
+
+                * Practiced updating records with and without conditions.
+                * Solved SQL queries to modify column values using `UPDATE`.
+                * Practiced deleting specific records safely using `DELETE` with `WHERE`.
+                * Improved my understanding of managing and maintaining data in SQL.
+
+                **Status:** ✅ Day 4 Completed
 
 
 
